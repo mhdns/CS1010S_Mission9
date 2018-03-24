@@ -12,7 +12,6 @@ import time
 #####################
 # Reading json file #
 #####################
-
 def read_json(filename):
     """
     Reads a json file and returns a list of modules
